@@ -1,8 +1,6 @@
-### daangast
 ![daangast](https://pbs.twimg.com/media/Fw9llvWXsAgLB7F?format=jpg&name=large)
-\
-\
-`
+
+```
 class Daangast {
   public:
     string name;   
@@ -16,4 +14,4 @@ int main() {
   daangast.interest = "c++";
   daangast.age = 22;
 }
-`
+```
